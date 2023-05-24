@@ -1,0 +1,12 @@
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\bin\Debug\net7.0\Modelos.deps.json
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\bin\Debug\net7.0\Modelos.dll
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\bin\Debug\net7.0\Modelos.pdb
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.csproj.AssemblyReference.cache
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfoInputs.cache
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfo.cs
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.csproj.CoreCompileInputs.cache
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.dll
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\refint\Modelos.dll
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\Modelos.pdb
+C:\study\csharp\csharp-basico\parte7\ByteBank\Modelos\obj\Debug\net7.0\ref\Modelos.dll
