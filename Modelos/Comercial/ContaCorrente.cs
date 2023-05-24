@@ -93,5 +93,10 @@ namespace Modelos.Comercial
         {
             return HashCode.Combine(Titular, Agencia, Numero);
         }
+
+        public override string ToString()
+        {
+            return $"Numero da Conta: {Numero}, Agencia: {Agencia}";
+        }
     }
 }

@@ -20,5 +20,16 @@ namespace Modelos.Comercial
 
             totalClientes++;
         }
+
+        public override bool Equals(object? obj)
+        {
+            return obj is Cliente cliente &&
+                   Cpf == cliente.Cpf;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Nome, Cpf, Profissao);
+        }
     }
 }
