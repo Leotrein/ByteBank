@@ -1,3 +1,4 @@
+using System.Runtime.CompilerServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,7 @@ using Modelos.Excecoes;
 
 namespace Modelos.Comercial
 {
-    public class ContaCorrente
+    public class ContaCorrente : IComparable
     {
         public static double TaxaOperacional { get; private set; }
         public static int TotalContas { get; private set; }
@@ -97,6 +98,12 @@ namespace Modelos.Comercial
         public override string ToString()
         {
             return $"Numero da Conta: {Numero}, Agencia: {Agencia}";
+        }
+
+        public int CompareTo(object? obj)
+        {
+            ContaCorrente outraConta = obj as ContaCorrente;
+            return this.Numero.CompareTo(outraConta.Numero);
         }
     }
 }
